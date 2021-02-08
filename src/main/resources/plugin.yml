@@ -1,5 +1,7 @@
 name: $pluginName
 main: $pluginMain
-depend: [ Kotlin, ProtocolLib ]
+depend: [ Kotlin ]
 api-version: '1.16'
 version: $version
+commands:
+  teamspawn:
