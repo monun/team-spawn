@@ -1,8 +1,4 @@
-# Paper plugin sample
-[![Build Status](https://travis-ci.com/monun/tap-sample-plugin.svg?branch=master)](https://travis-ci.org/monun/tap-sample-plugin)
-## Environment
-* Kotlin
-* Tap
-* Kommand
-* Unit test
-* Travis CI
+# TeamSpawn
+[![Build Status](https://travis-ci.com/monun/team-spawn.svg?branch=master)](https://travis-ci.org/monun/team-spawn)
+
+Minecraft의 Team과 연동되는 스폰 시스템
